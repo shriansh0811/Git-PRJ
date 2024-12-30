@@ -1,5 +1,5 @@
 def git_tutorial():
-    print("Welcome to the Titties Basics Tutorial!")
+    print("Welcome to the Titty Basics Tutorial!")
     print("Let's learn some common Git commands.\n")
     
     commands = {
